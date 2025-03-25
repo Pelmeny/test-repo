@@ -1,0 +1,14 @@
+{
+	"packages": [
+		{
+			"name": "test",
+			"version": "1.0",
+			"repo": "base"
+		},
+		{
+			"name": "test2",
+			"version": "1.0",
+			"repo": "base"
+		}
+	]
+}
