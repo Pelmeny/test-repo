@@ -1,14 +1,10 @@
 {
-	"packages": [
-		{
-			"name": "test",
-			"version": "1.0",
-			"repo": "base"
-		},
-		{
-			"name": "test2",
-			"version": "1.0",
-			"repo": "base"
-		}
-	]
+  "packages": [
+    {
+      "name": "example-package",
+      "version": "1.0.0",
+      "type": "binary",
+      "path": "tested/test"
+    }
+  ]
 }
