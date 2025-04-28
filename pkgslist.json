@@ -1,10 +1,9 @@
 {
   "packages": [
     {
-      "name": "example-package",
+      "name": "neofetch",
       "version": "1.0.0",
-      "type": "binary",
-      "path": "tested/test"
+      "path": "test/neofetch"
     }
   ]
 }
